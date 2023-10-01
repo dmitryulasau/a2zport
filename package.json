@@ -1,0 +1,15 @@
+{
+  "name": "a2zport",
+  "version": "1.0.0",
+  "description": "a2zport assignment",
+  "main": "a2zport.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dmitry Ulasau",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
